@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppFrame</string>
+
+    <string name="tab_msg">Message</string>
+    <string name="tab_client">Client</string>
+    <string name="tab_my">My</string>
+</resources>
